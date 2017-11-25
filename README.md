@@ -1,0 +1,2 @@
+# GitEdu
+Just for training
